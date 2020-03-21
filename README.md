@@ -1,8 +1,8 @@
 # One on One meetings
 
-The one-on-one meetings are vital for organizational growth. Many people-managers overlook the benefits of one-on-one meetings. One of the main reasons is, the manager uses a set of similar 3–10 questions repeatedly. The repetition of questions makes the meeting boring for both manager and subordinates.
+The one-on-one meetings are vital for organizational growth. Many people-managers overlook the benefits of one-on-one meetings. One of the main reasons is, the manager usually ask a set of similar 3–10 questions repeatedly. The repetition of questions makes the meeting boring for both, manager and subordinates.
 
-You can easily find many excellent resources and recommendations for the questions that can be used in one-on-ones. Here is the consolidated list of the sample questions which you can readily use in your conversations.
+The Internet has many excellent resources and recommendations for the questions that can be used in one-on-ones. Here is the consolidated list of the sample questions which you can readily use in your conversation.
 
 #### Opening Questions 
 
@@ -47,7 +47,7 @@ You can easily find many excellent resources and recommendations for the questio
 * Can we do anything to better align your work with your goals?
 * Do you feel we’re helping you advance your career at a pace you would like?
 * Could you see yourself making progress on more of your goals here? What would need to change to do so?
-* What part of your work here is most in line with your goals?
+* What part of your work here are most in line with your goals?
 * What actions will you take before our next 1-on-1 to make progress on `X`?
 * What sort of progress have you made on the next steps we discussed `last time`?
 * What have you tried so far to make progress on it? What haven’t you tried yet?
@@ -69,7 +69,7 @@ You can easily find many excellent resources and recommendations for the questio
 * What skills/areas would you like to get better at?
 * What have you learned/improved recently?
 * If you were to take a course in something, what would it be?
-* What are some habits/brhaviors you’d like to develop?
+* What are some habits/behaviors you’d like to develop?
   * What are some habits that you want to get rid of?
 * Are there any new ideas you’d like to discuss with me/the team?
 * What’s something you’re itching to try that you haven’t had the time or resources to do?
@@ -117,7 +117,7 @@ can I do to prevent that?
 * How can we improve these 1:1s?
 * How can I better support you?
 * Is there anything I can do to give you more support at work?
-* What is something I could do better? What is a criticism you have for me?
+* What is something I could do better? What is the criticism you have for me?
 * What do you like about my management style? What do you dislike?
 * What have your past managers done that you’d like me to also do or not do?
 * What’s something past managers have done that’s inspired and motivated you?
@@ -125,7 +125,7 @@ can I do to prevent that?
 * What’s your favorite thing I do as a manager of this team I should keep doing?
 * What would you like to know about me?
 * What feedback do you have for me? Both positive and constructive?
-* Would you be willing to share some feedback on one to two things you think I could do better as your manager?
+* Would you be willing to share some feedback on one or two things you think I could do better as your manager?
 * Is there anything you would change about how you and I communicate?
 * Would you prefer more or less direction from me?
 * Do you have some examples of things you think I should have handled differently?
@@ -133,11 +133,11 @@ can I do to prevent that?
 * What do you think I should know about the project, but might not?
 * Do you feel that I represent the team well to the rest of the company/organization? What would you change?
 * Do you feel like I acknowledge/recognize the positive work that you do?
-* What’s your favourite thing I do as a manager?
+* What’s your favorite thing I do as a manager?
 * Can you think of something I’ve done or said recently, that did you didn’t like or agreed with?
 * Is there something I’m doing that I could delegate to someone on the team?
 * Where has my communication faltered? Can you give me an example?
-* Where would you like me involved more in your day to day? Where would you like me involved less?
+* Where would you like me involved more in your day-to-day? Where would you like me involved less?
 * What is everyone around me neglecting to share with me?
   * What’s everyone around me NOT telling me?
 * If I could improve one skill between this meeting and the next, which would you choose?
@@ -187,7 +187,7 @@ can I do to prevent that?
 * Why do you think [employee who recently quit] left?
   * What did they tell you?
   * Is there something we should change?
-* Are you satisfied with your current role, position and team?
+* Are you satisfied with your current role, position, and team?
 * Which company values do you like the most? Which the least? Why?
 * What’s your dream job?
 * What kind of a workplace would help you be the happiest version of you?
@@ -232,11 +232,11 @@ comfortable with less formal verbal feedback?
 * Do you have any questions about what other team members are working on?
 * Do you help other members on the team?
 * Do others help you when you need it?
-* Are you uncomfortable giving any of your peers constructive criticism? If so, why?
+* Are you uncomfortable giving any of your peers' constructive criticism? If so, why?
 * What’s an inexpensive thing we could do to improve our office environment for the team?
 * If you were to build a small team to work with, who would be on it?
 * Who do you have a hard time working with? Why?
-* What makes someone a fit for our team?
+* What makes someone fit for our team?
 * Is there anything you would do to improve how the team collaborates?
 * What would you change about our team?
 * How could we change our team meetings to be more effective?
@@ -255,19 +255,19 @@ make them more inclusive?
 * Do you have any questions about the organization?
 * Have you noticed anything at the company that felt off lately?
 * What's the biggest opportunity that we're not thinking about?
-* How can the team work better together? Where are we failing? Where are we succeeding?
+* How can the team operate better together? Where are we failing? Where are we succeeding?
 * What's your least favorite thing about the product?
 * How are you feeling about the company's future? Why do you say that?
 * If you were the CEO, what changes would you make?
 * What is the company not doing today that we should do to better compete in the market?
 * What’s the biggest opportunity we’re not pursuing?
 * What’s one thing we’d be *crazy* not to do in the next quarter to improve our product?
-* Do you think our company is taking care to its employees? Why or why not?
+* Do you think our company is taking care of its employees? Why or why not?
 * Are there any aspects of our culture you wish you could change?
-* What are your favorite parts about our culture?
+* What are your favorite parts of our culture?
 * What is the number one problem at our company? Why?
 * How could we be more creative or innovative as a company?
-* How well do you feel like you relate to you coworkers? Do you view them as friends, acquaintances, or strangers?
+* How well do you feel like you relate to your coworkers? Do you view them as friends, acquaintances, or strangers?
 * What don’t you like about our product or services?
 * What’s the best thing about working here?
 
@@ -295,7 +295,7 @@ To build the rapport and get to know more about them
 * How are you feeling about the recent news? Why do you say that?
 * What concerns do you have about the change? What should we do to address them?
 * What’s going well and not so well with the new situation/development?
-* What is your understandings of the new goals and expectations?
+* What are your understandings of the new goals and expectations?
 * How is the new situation/development affecting your work? What could be getting in the way of your being effective?
 
 #### Issues
