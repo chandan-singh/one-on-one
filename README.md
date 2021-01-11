@@ -313,6 +313,18 @@ To build rapport and get to know more about them.
 * What are your honest impressions of this meeting?
 * What do you like about our one-on-one meetings? What can be improved?
 
+### Note/Diary templates
+![Rapport](./1.jpg?raw=true)
+![Goals](./2.jpg?raw=true)
+![One-on-one](./3.jpg?raw=true)
+![Action-items](./4.jpg?raw=true)
+![conversation](./5.jpg?raw=true)
+![questions](./7.jpg?raw=true)
+![questions](./8.jpg?raw=true)
+![questions](./9.jpg?raw=true)
+![questions](./10.jpg?raw=true)
+![questions](./11.jpg?raw=true)
+
 ### References
 
 * https://lattice.com/library/the-ultimate-guide-to-one-on-ones
@@ -320,3 +332,5 @@ To build rapport and get to know more about them.
 * https://www.quora.com/What-are-good-questions-to-ask-employees-in-one-on-one-meetings-I-just-want-my-employees-to-be-happy-and-productive-How-can-I-make-sure-were-having-good-honest-productive-conversations
 * https://storage.googleapis.com/gqueues-static/44-Questions-for-One-on-One-Meetings.pdf
 * https://soapboxhq.com/blog/meetings/121-questions-for-one-on-one-meetings
+
+
