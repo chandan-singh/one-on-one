@@ -340,11 +340,11 @@ You can use the following PDF template/diary in the note taking apps like [Notes
 
 #### Rapport
 
-![Rapport](./images/1.jpg?raw=true)
+![Rapport](./1.jpg?raw=true)
 
 #### Goal tracking
 
-![Goals](./images/2.jpg?raw=true)
+![Goals](./2.jpg?raw=true)
 
 ### References
 
