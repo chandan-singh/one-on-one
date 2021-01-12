@@ -1,10 +1,10 @@
 # One on One meetings
 
-The one-on-one meetings are vital for organizational growth. Many people-managers overlook the benefits of one-on-one meetings. One of the main reasons is that the manager usually asks a set of similar 3–10 questions repeatedly. The repetition of questions makes the meeting boring for manager and subordinates.
+The one-on-one meetings are vital for organizational growth. Many people-managers overlook the benefits of one-on-one meetings. One of the main reasons is that the manager usually asks a set of similar-sounding 3–10 questions. The repetition of questions makes the meeting boring for managers and subordinates.
 
 The Internet has many excellent resources and recommendations for questions that can be used in one-on-ones. Here is the consolidated list of the sample questions which you can readily use in your conversation.
 
-#### Opening Questions 
+### Opening Questions
 
 * What would you like to focus on at this meeting?
 * What were your focus and achievements this week?
@@ -14,9 +14,9 @@ The Internet has many excellent resources and recommendations for questions that
 * Is there anything that you need from me?
 * What are your plans and priorities for next week? What are you prioritizing, and what are you putting on the back-burner?
 
-#### Goals
+### Goals
 
-##### Short Term (within 9 months)
+#### Short Term (within a year)
 
 * How can we help improve your day-to-day work?
 * How do you feel about the project?
@@ -25,7 +25,7 @@ The Internet has many excellent resources and recommendations for questions that
 * What do you want to do in your next job/assignment?
 * Are there any skills that you think would be useful for you to acquire in the short term?
 
-##### Long Term (beyond a year)
+#### Long Term (beyond a year)
 
 * Where do you see yourself in 5 years? 10 years? 20 years?
 * What work are you doing here that you feel most in line with your long term goals?
@@ -39,7 +39,7 @@ The Internet has many excellent resources and recommendations for questions that
 * In the future, do you see yourself as an individual contributor or in management?
 * What are some things you can start doing in the next 12 months to work towards that goal?
 
-##### Goal Tracking
+#### Goal Tracking
 
 * What skills would you like to work on most right now?
 * Do you feel like you're making progress on your big goals here? Why or why not?
@@ -52,7 +52,7 @@ The Internet has many excellent resources and recommendations for questions that
 * What sort of progress have you made on the next steps we discussed `last time`?
 * What have you tried so far to make progress on it? What haven't you tried yet?
 
-#### Identify Growth Needs
+### Identify Growth Needs
 
 * What additional resources do you need?
 * What could I do to make you enjoy your work more?
@@ -74,7 +74,7 @@ The Internet has many excellent resources and recommendations for questions that
 * Are there any new ideas you'd like to discuss with me/the team?
 * What's something you're itching to try that you haven't had the time or resources to do?
 
-#### Roadblocks and Concerns
+### Roadblocks and Concerns
 
 * Is there anything right now that is slowing you down or blocking you?
 * Are there any obstacles that prevent you from doing your best?
@@ -83,7 +83,7 @@ can I do to prevent that?
 * What are some recent challenges you've faced? How can we work them out?
 * Do I have anything outstanding for you that I haven't done yet?
 
-#### Role Awareness
+### Role Awareness
 
 * What area of the company/organization/team would you like to learn more about?
 * Who in the company would you like to learn from? What do you want to learn?
@@ -93,7 +93,7 @@ can I do to prevent that?
 * Do you feel like you're growing in your role? What makes you say that?
 * What's working well for you in your current position?
 
-#### Career Development
+### Career Development
 
 * Do you feel like we're helping to advance your career? What else can I be doing to help grow your career?
 * Do you feel like you're learning at work?
@@ -108,7 +108,7 @@ can I do to prevent that?
 * Is there anything I could do to invest more in your growth?
 * What can I hold you accountable for next time we talk?
 
-#### Manager Suggestions
+### Manager Suggestions
 
 * How can I be a better manager?
 * How can I make your work easier?
@@ -141,7 +141,7 @@ can I do to prevent that?
   * What's everyone around me NOT telling me?
 * If I could improve one skill between this meeting and the next, which would you choose?
 
-#### Job Satisfaction
+### Job Satisfaction
 
 * Are you happy with your recent work? Why or why not?
 * What is your resentment?
@@ -177,7 +177,7 @@ can I do to prevent that?
 * Are you happy in your role? What could make it better for you?
 * Which one best describes you during the past month? 😀 🙂 😐 🤔 😒 😳 😰 😤
 
-##### Identify flight risk
+### Identify flight risk
 
 * Are you happy working here?
 * On a scale of 1–10, how happy are you at work?
@@ -191,7 +191,7 @@ can I do to prevent that?
 * What's your dream job?
 * What kind of a workplace would help you be the happiest version of yourself?
 
-#### Feedback
+### Feedback
 
 * How do you prefer to receive feedback? 
   * When's the best time to give feedback on your work?
@@ -214,7 +214,7 @@ can I do to prevent that?
 * What type of feedback is most valuable to you?
 * What type of feedback are you missing?
 
-#### Team
+### Team
 
 * Do you feel like you're on the same page with the team? How often do you think you need meetings to ensure you stay that way?
 * Are there any meetings or discussions you feel you should be a part of that you're not? Are you included in any you don't want to be a part of?
@@ -248,7 +248,7 @@ make them more inclusive?
 * What is a difficult but useful conversation that you think could be had in our team that we are not having?
 * Is there anything that would be productive for me to re-explain to our team?
 
-#### Company
+### Company
 
 * Do you have any questions about the organization?
 * Have you noticed anything at the company that felt off lately?
@@ -269,7 +269,7 @@ make them more inclusive?
 * What don't you like about our product or services?
 * What's the best thing about working here?
 
-#### Build Rapport
+### Build Rapport
 
 To build rapport and get to know more about them.
 
@@ -288,7 +288,7 @@ To build rapport and get to know more about them.
 * What drives you? What motivates you to come to work each day?
 * As a kid, what did you want to be when you grew up?
 
-#### Changes at work
+### Changes at work
 
 * How do you feel about the recent news? Why do you say that?
 * What concerns do you have about the change? What should we do to address them?
@@ -296,7 +296,7 @@ To build rapport and get to know more about them.
 * What are your understandings of the new goals and expectations?
 * How is the new situation/development affecting your work? What could be getting in the way of your being effective?
 
-#### Issues
+### Issues
 
 * Could you tell me a little more about that?
 * Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)
@@ -306,7 +306,7 @@ To build rapport and get to know more about them.
 * How did that make you feel?
 * If you could change what happened, how would you alter it?
 
-#### Kaizen / Retrospective
+### Kaizen / Retrospective
 
 * What are your impressions of our 1-on-1s? What could we do differently or better?
 * I'm trying to make my 1-on-1s better and appreciate your honest feedback on this one — what did you like about it, and what could be improved?
@@ -314,16 +314,37 @@ To build rapport and get to know more about them.
 * What do you like about our one-on-one meetings? What can be improved?
 
 ### Note/Diary templates
-![Rapport](./1.jpg?raw=true)
-![Goals](./2.jpg?raw=true)
+
+You can use the following PDF template/diary in the note taking apps like [Noteshelf](http://www.noteshelf.net/), [Notability](https://www.gingerlabs.com/), [GoodNotes](https://www.goodnotes.com/).
+
+[>>> DOWNLOAD One-on-one PDF! <<<](./One-on-one.pdf)
+
+### Screenshots
+
+#### One-on-one
+
 ![One-on-one](./3.jpg?raw=true)
+
+#### Action-items
+
 ![Action-items](./4.jpg?raw=true)
+
+#### Conversation and Questions
+
 ![conversation](./5.jpg?raw=true)
 ![questions](./7.jpg?raw=true)
 ![questions](./8.jpg?raw=true)
 ![questions](./9.jpg?raw=true)
 ![questions](./10.jpg?raw=true)
 ![questions](./11.jpg?raw=true)
+
+#### Rapport
+
+![Rapport](./images/1.jpg?raw=true)
+
+#### Goal tracking
+
+![Goals](./images/2.jpg?raw=true)
 
 ### References
 
@@ -332,5 +353,3 @@ To build rapport and get to know more about them.
 * https://www.quora.com/What-are-good-questions-to-ask-employees-in-one-on-one-meetings-I-just-want-my-employees-to-be-happy-and-productive-How-can-I-make-sure-were-having-good-honest-productive-conversations
 * https://storage.googleapis.com/gqueues-static/44-Questions-for-One-on-One-Meetings.pdf
 * https://soapboxhq.com/blog/meetings/121-questions-for-one-on-one-meetings
-
-
